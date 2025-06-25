@@ -146,10 +146,10 @@ Here are some ideas to get you started:
   </section>
 
   <section id="contact">
-    <h2>Ready to Restore Your Credit?</h2>
+    <h2>Ready to Restore Your Credit? Time To Live</h2>
     <p>Contact us today for a free consultation and take your first step towards financial freedom.</p>
-    <p><strong>Email:</strong> <a href="mailto:contact@luxoncreditrepair.com" style="color:#bfa058;">contact@luxoncreditrepair.com</a></p>
-    <p><strong>Phone:</strong> <a href="tel:+12345678900" style="color:#bfa058;">+1 (234) 567-8900</a></p>
+    <p><strong>Email:</strong> <a href="mailto:luxoncreditrepair@gmail.com" style="color:#bfa058;">luxoncreditrepair@gmail.com</a></p>
+    <p><strong>Phone:</strong> <a href="tel:+1 215-934-2112" style="color:#bfa058;">+1 (215)934-2112</a></p>
   </section>
 </main>
 
