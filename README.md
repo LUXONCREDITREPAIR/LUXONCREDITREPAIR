@@ -161,3 +161,8 @@ Here are some ideas to get you started:
 
 </body>
 </html>
+/build
+  /index.html
+  /terms.html
+  /privacy.html
+  /assets/...
