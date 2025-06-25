@@ -161,15 +161,3 @@ Here are some ideas to get you started:
 
 </body>
 </html>
-import termsOfUse from './LUXON_Terms_of_Use';
-import privacyPolicy from './LUXON_Privacy_Policy';
-
-function PolicyPage({ type }) {
-return (
-<div
-dangerouslySetInnerHTML={{
-__html: type === "terms" ? termsOfUse : privacyPolicy,
-  }}
-  />
-  );
-}
